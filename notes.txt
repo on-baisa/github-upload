@@ -1,0 +1,4 @@
+-angular
+    - each file = 1 module
+    - root module app.module.ts (bootstraped)
+    - npm install @angular/<library_name>
